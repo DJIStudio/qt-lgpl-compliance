@@ -1,0 +1,55 @@
+================================================================================
+DJI Studio - Open Source Compliance Notice
+================================================================================
+This software (DJIStudio) uses Qt 6.5.3, licensed under the
+GNU Lesser General Public License v3 (LGPLv3).
+
+--------------------------------------------------------------------------------
+Qt Framework Information
+--------------------------------------------------------------------------------
+  Name:          Qt
+  Version:       6.5.3
+  License:       GNU Lesser General Public License v3 (LGPLv3)
+  Official Site: https://www.qt.io
+  Source Code:   https://code.qt.io/cgit/qt/qt5.git/tag/?h=v6.5.3
+
+--------------------------------------------------------------------------------
+DJI Studio Modified Qt Source Code
+--------------------------------------------------------------------------------
+  DJI Studio has made modifications to Qt 6.5.3.
+  In compliance with LGPLv3, the modified source code is publicly available
+  at the following repositories, under the branch: 6.5.3_DJIStudio
+
+  Repository:    https://github.com/DJIStudio/qt5
+  Branch:        6.5.3_DJIStudio
+  Description:   Modified Qt 6.5.3 source code (top-level)
+
+  Repository:    https://github.com/DJIStudio/qtbase
+  Branch:        6.5.3_DJIStudio
+  Description:   Modified Qt 6.5.3 base module source code
+
+  To obtain the modified source code, run:
+    git clone -b 6.5.3_DJIStudio https://github.com/DJIStudio/qt5.git
+    git clone -b 6.5.3_DJIStudio https://github.com/DJIStudio/qtbase.git
+
+--------------------------------------------------------------------------------
+License Texts
+--------------------------------------------------------------------------------
+  GNU Lesser General Public License v3 (LGPLv3):
+  https://www.gnu.org/licenses/lgpl-3.0.html
+
+  GNU General Public License v3 (GPLv3):
+  https://www.gnu.org/licenses/gpl-3.0.html
+
+--------------------------------------------------------------------------------
+Contact
+--------------------------------------------------------------------------------
+  For any questions regarding open source compliance, please contact:
+  Email:    opensource@dji.com
+  Website:  https://www.dji.com
+  Download: https://www.dji.com/downloads/softwares/dji-studio
+
+================================================================================
+Last updated: 2026 
+This notice applies to DJIStudio and its distributed Qt 6.5.3 libraries.
+================================================================================
