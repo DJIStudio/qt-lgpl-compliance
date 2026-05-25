@@ -28,6 +28,7 @@ in the following repositories:
 |------------|--------|-------------|
 | [DJIStudio/qt5](https://github.com/DJIStudio/qt5) | `6.5.3_DJIStudio` | Modified Qt 6.5.3 source code (top-level) |
 | [DJIStudio/qtbase](https://github.com/DJIStudio/qtbase) | `6.5.3_DJIStudio` | Modified Qt 6.5.3 base module source code |
+| [DJIStudio/qtdeclarative](https://github.com/DJIStudio/qtdeclarative) | `6.5.3_DJIStudio` | Modified Qt 6.5.3 declarative module source code |
 
 > The branch `6.5.3_DJIStudio` is based on the official **Qt 6.5.3** release tag  
 > and contains all modifications made by DJI Studio.  
@@ -58,6 +59,7 @@ used by DJI Studio with modified versions.
    ```bash
    git clone -b 6.5.3_DJIStudio https://github.com/DJIStudio/qt5.git
    git clone -b 6.5.3_DJIStudio https://github.com/DJIStudio/qtbase.git
+   git clone -b 6.5.3_DJIStudio https://github.com/DJIStudio/qtdeclarative.git
    ```
 
 2. Build the Qt 6.5.3 libraries following the official Qt build instructions:  

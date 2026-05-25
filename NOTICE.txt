@@ -28,9 +28,14 @@ DJI Studio Modified Qt Source Code
   Branch:        6.5.3_DJIStudio
   Description:   Modified Qt 6.5.3 base module source code
 
+  Repository:    https://github.com/DJIStudio/qtdeclarative
+  Branch:        6.5.3_DJIStudio
+  Description:   Modified Qt 6.5.3 declarative module source code
+
   To obtain the modified source code, run:
     git clone -b 6.5.3_DJIStudio https://github.com/DJIStudio/qt5.git
     git clone -b 6.5.3_DJIStudio https://github.com/DJIStudio/qtbase.git
+    git clone -b 6.5.3_DJIStudio https://github.com/DJIStudio/qtdeclarative.git
 
 --------------------------------------------------------------------------------
 License Texts
